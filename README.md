@@ -5,8 +5,9 @@
 程序可以自动抓取地震信息，并将其绘制在地图上，其具有查询、更新、绘制等功能。  
 
 ## 项目成果
-学习应用 `JavaFX`，`Jsoup`，并编写`JavaDoc`。扩展Java语言的实际应用。  
-Doc文件位于[doc/index.html](/doc/index.html)  
+学习应用 `JavaFX` GUI绘制，`Jsoup` 爬虫获取信息，并编写`JavaDoc` [说明文档](/doc/)。 以及扩展Java语言的实际应用。  
+
+
  ***运行截图如下***   
 1. 主要界面：   
 ![](./example/search.png "主要界面展示")  <br>  
