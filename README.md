@@ -10,9 +10,11 @@
 
  ***运行截图如下***   
 1. 主要界面：   
-![](./example/search.png "主要界面展示")  <br>  
+![](./example/search.png "主要界面展示")   
+
 2. 地震带绘制：  
-![](./example/map.png "地震带绘制图")  <br>  
+![](./example/map.png "地震带绘制图")
+
 3. 折线图绘制：  
 ![](./example/line.png "折线绘制")  <br>  
 
@@ -33,7 +35,7 @@ mysql -u root -p java2_project < "java2_project.sql"
 
 ## 运行环境
 Java: `jdk1.8.0_121`    
-Jsoup: `jsoup-1.11.2.jar`
+Jsoup: `jsoup-1.11.2.jar`  
 JDBC: `mysql-connector-java-5.1.41-bin.jar`    
 Mysql: `Server version: 5.7.18-log MySQL Community Server (GPL)`  
 
