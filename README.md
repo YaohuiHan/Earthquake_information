@@ -10,14 +10,17 @@
 
  ***运行截图如下***   
 1. 主要界面：   
-![](./example/search.png "主要界面展示")   
+![](./.png/search.png "主要界面展示")   
 
 2. 地震带绘制：  
-![](./example/map.png "地震带绘制图")
+![](./.png/map.png "地震带绘制图")
 
 3. 折线图绘制：  
-![](./example/line.png "折线绘制")  <br>  
+![](./.png/line.png "折线绘制")  <br>  
 
+4. doc文档：  
+![](./.png/doc.png "doc文档")  <br>  
+  
 ## 使用方法
 `clone`到本地后直接Import workspace  
 
